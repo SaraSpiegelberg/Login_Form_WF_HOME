@@ -16,7 +16,7 @@ namespace Login_Form_WF_HOME
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new LoginScreen());
         }
     }
 }
